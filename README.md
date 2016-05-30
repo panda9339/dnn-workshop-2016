@@ -10,11 +10,8 @@
    * [Ding Wen Demo](http://mozziegoround.github.io/mainpage/)
    * [Tianyi Demo](http://chaotianyi.github.io/initiumlab.com/)
    * [Mena Wang Demo] (http://menawang.github.io/fancy-blog/)
-
-
-
-
- [xiaoyu pan Demo](https://panda9339.github.io/panda/)
+   * 
+   * [xiaoyu pan Demo](https://panda9339.github.io/panda/)
  
  
  [Qing Zhang Demo](https://greeniezhang.github.io/green/)
