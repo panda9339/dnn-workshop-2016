@@ -9,3 +9,6 @@
       * From Silva: http://hupilidemo.github.io/HKBU/
    * [Ding Wen Demo](http://mozziegoround.github.io/mainpage/)
    * [Tianyi Demo](http://chaotianyi.github.io/initiumlab.com/)
+   *    * [Mena WANG] (http://github.com/menawang)
+      * Demo Blog: http://menawang.github.io/fancy-blog/
+
